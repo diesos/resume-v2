@@ -1,14 +1,17 @@
-import Nav from './Nav'
-import MainContent from './MainContent'
 import './App.css'
+import TopContent from './TopContent'
+import MidContent from './MidContent'
+import BotContent from './BotContent'
 
 function App() {
 
   return (
-    <>
-    <Nav />
-    <MainContent />
-    </>
+
+    <div className="container">
+    <TopContent />
+    <MidContent />
+    <BotContent />
+    </div>
   )
 }
 
