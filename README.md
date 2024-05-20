@@ -1,5 +1,7 @@
 # Business Digital Card Web Application
+## Live deploy
 
+You can visit : https://diesos-resume.netlify.app/ for the deployed version.
 
 ## Overview
 
